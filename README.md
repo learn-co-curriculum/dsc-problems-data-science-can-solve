@@ -8,10 +8,15 @@
 
 ### Introduction 
 
-In the present society where data science and big data are the trendy expressions and ongoing development in these domains is viewed as the key business success criterion. It often challenging to find a shared vocabulary between data scientists and business decision makers. 
+In the present society, data science and big data are the trendy expressions and ongoing development in these domains is viewed as the key business success criterion. It is, however, often challenging to find a shared vocabulary between data scientists and business decision makers. Data analytics process always begins with spending a lot of time to see clarifications on what can be referred to as a **"Business Problem"** or an **"Analytical Problem"**. This is a key step and that helps data scientists decide which data and tools would they need to solve the problem. 
 
-Before trying to solve a data related problem, it is imperative that a data scientist/analyst carries a clear understanding of the problem domain. Following is a list of problems data science can solve. 
+> Having a clearly posed business question is vital because it eventually directs the analytical approach that will be needed to address the question
 
+Based on this, the analytic approach starts with understanding of the strategic goals. For example, if your manager asks: "How can we reduce the costs of our marketing campaign without hurting the revenues?", you need to identify whether the goal is to improve the efficiency of marketing? Or to increase the businesses profitability? Or both. Once the goal is clarified, the next step is to figure out what data would you need to support of the identified goal. 
+
+Before trying to solve a data related problem, it is imperative that a data scientist/analyst carries a clear understanding of the problem domain. 
+
+Following is a list of some routine business problems data scientists are expected to solve. There is a lot more that can be added to this list but we shall keep it simple for now. 
 
 ### How much or how many - Regression analysis
 
@@ -25,7 +30,7 @@ Linear regression is a handy technique to forecast sales, monitor marketing camp
 
 ### Which category - Classification analysis
 
-Classification analysis deals with inspecting the relationship between several predictor variables and one response variable. Classification models help organizations predict a known result, such as whether a customer will buy or churn, weather an employee will leave or stay or whether a transaction fits a known pattern of fraud.
+Classification analysis deals with inspecting the relationship between several predictors  and one outcome. The outcome for classification directs the analyses towards one out of many categories. Classification models help organizations predict a known result, such as whether a customer will buy or churn, weather an employee will leave or stay or whether a transaction fits a known pattern of fraud.
 
 #### Example: Credit Rating
 
@@ -54,10 +59,6 @@ Recommender systems are among the most popular applications of data science toda
 
 Recommender systems can help a business retain customers by providing them with tailored suggestions specific to their needs. They can help increase sales and create brand loyalty through relevant personalization. When a customer feels as though they are understood by your brand, they are more likely to stay loyal and continue purchasing through your site.
 According to a recent study by McKinsey, up to 75% of what consumers watch on Netflix comes from the company’s recommender system. Retail giant Amazon credits recommender systems with 35% of their revenue. Best Buy decided to focus on their online sales, and in 2016’s second quarter they reported a 23.7% increase, thanks in part to their recommender system. 
-
-
-
-
 
 
 ### Summary
