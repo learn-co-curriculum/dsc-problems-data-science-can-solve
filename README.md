@@ -10,7 +10,7 @@
 
 In the present society, data science and big data are the trendy expressions and ongoing development in these domains is viewed as the key business success criterion. It is, however, often challenging to find a shared vocabulary between data scientists and business decision makers. Data analytics process always begins with spending a lot of time to see clarifications on what can be referred to as a **"Business Problem"** or an **"Analytical Problem"**. This is a key step and that helps data scientists decide which data and tools would they need to solve the problem. 
 
-> Having a clearly posed business question is vital because it eventually directs the analytical approach that will be needed to address the question
+> Having a clearly posed analytical question is vital because it eventually directs the analytical approach that will be needed to address the question
 
 Based on this, the analytic approach starts with understanding of the strategic goals. For example, if your manager asks: "How can we reduce the costs of our marketing campaign without hurting the revenues?", you need to identify whether the goal is to improve the efficiency of marketing? Or to increase the businesses profitability? Or both. Once the goal is clarified, the next step is to figure out what data would you need to support of the identified goal. 
 
