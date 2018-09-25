@@ -1,57 +1,52 @@
 
 # What Problems Can Data Science Solve 
 
-### SWABTs:
-    
-* Explain the classes of problems that data science can be used to solve
-
-
 ### Introduction 
 
-In the present society, data science and big data are the trendy expressions and ongoing development in these domains is viewed as the key business success criterion. It is, however, often challenging to find a shared vocabulary between data scientists and business decision makers. Data analytics process always begins with spending a lot of time to see clarifications on what can be referred to as a **"Business Problem"** or an **"Analytical Problem"**. This is a key step and that helps data scientists decide which data and tools would they need to solve the problem. 
+In this lesson we'll look at what data science is and the classes of problems that it can be used to solve. By the end of the lesson you should understand the kinds of things you'll be able to achieve as a professional data scientist.
 
-> Having a clearly posed analytical question is vital because it eventually directs the analytical approach that will be needed to address the question
+### Objectives:
+You will be able to:
+* Explain the classes of problems that data science can be used to solve
 
-Based on this, the analytic approach starts with understanding of the strategic goals. For example, if your manager asks: "How can we reduce the costs of our marketing campaign without hurting the revenues?", you need to identify whether the goal is to improve the efficiency of marketing? Or to increase the businesses profitability? Or both. Once the goal is clarified, the next step is to figure out what data would you need to support of the identified goal. 
+### What Problems Can Data Science Solve?
 
-Before trying to solve a data related problem, it is imperative that a data scientist/analyst carries a clear understanding of the problem domain. 
+Congratulations on deciding to become a data scientist! Before we dig into the details of the tools and techniques that you'll need to learn, it's important to take a little time to understand what you'll be able to do once you graduate. Here is a list of some of the common types of business problems data scientists are expected to solve. 
 
-Following is a list of some routine business problems data scientists are expected to solve. There is a lot more that can be added to this list but we shall keep it simple for now. 
+### 1. How much or how many - Regression analysis
 
-### How much or how many - Regression analysis
-
-Regression analysis and modeling techniques are used to show or predict the relationship between two data entities or factors. In a business context, regression analysis is used for predictive analysis around different business entities, Supporting managerial decision making, Improving operational efficiency and for providing new insights into the business context. 
+Regression analysis is used to predict a continuous value - such as the number of staff you'll need for a busy shift or the likely sale price of a house. 
 
 #### Example:  Sales or Market Forecasts
 
 ![](https://analysights.files.wordpress.com/2010/05/051310_0140_forecastfri21.png?w=450)
-Linear regression is a handy technique to forecast sales, monitor marketing campaigns and create create future plans etc. Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other entities are modified.
+Regression is a handy technique to forecast sales, monitor marketing campaigns and create create future plans etc. Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other variables are modified.
 
 
-### Which category - Classification analysis
+### 2. Which category - Classification analysis
 
-Classification analysis deals with inspecting the relationship between several predictors  and one outcome. The outcome for classification directs the analyses towards one out of many categories. Classification models help organizations predict a known result, such as whether a customer will buy or churn, weather an employee will leave or stay or whether a transaction fits a known pattern of fraud.
+Classification analysis is like regression in that it allows you to predict something. The difference is that a classifier is used to predict which category something will fall into. If you're trying to figure out whether a client is likely to default on a loan (a binary classifier - default or no default) or which of your products a customer is likely to prefer, you're going to need a classifier.
 
 #### Example: Credit Rating
 
 ![](https://image.slidesharecdn.com/creditratingagencies-150922200742-lva1-app6891/95/credit-rating-agencies-15-638.jpg?cb=1442952619)
 
-Credit card companies usually recieve hunderds of thousands of requests from customers every week. These applications contain detailed information on customer social, economic and personal attributes. Classification analysis can easily allow such companies to categorize their customers as having "Good" or "Bad" credit rating or if they fall in the gray area. 
+Credit card companies receive hundreds of thousands of requests from customers every week. These applications contain detailed information on customer social, economic and personal attributes. Classification analysis can allow such companies to categorize their customers based on the quality of their credit.
 
 
-### Is this weird? - Anomaly detection
+### 3. Is this weird? - Anomaly detection
 
-Anomaly detection is a data science technique used to find unusual patterns that do not conform to expected behavior. Anomaly detection is a common analysis technique used in most big business. It has many applications in such businesses, from intrusion detection (identifying strange patterns in network traffic that could signal a hack) to fraud detection in credit card transactions to fault detection in operating environments.
+Anomaly detection is a data science technique used to find unusual patterns that do not conform to expected behavior. Anomaly detection is a common analysis technique. It has many applications in such businesses, from intrusion detection (identifying strange patterns in network traffic that could signal a hack) to fraud detection in credit card transactions to fault detection in operating environments.
 
-#### Example: Identifying Fruad
+#### Example: Identifying Fraud
 
 ![](https://cdn-images-1.medium.com/max/1200/1*F_yiILIE954AZPgPADx76A.png)
 
-Fraud detection is the most common typoe anomaly detection technique used by businesses. This approach focuses at finding **outliers** in the user usage data that appear to have patterns unlike the majority of users.  This serves as a first indication for presence of a fraudulent activity. Such approaches are heavily applied all the way from large social networks, including Google and Facebook, to banks and credit card companies for finding possible hackers/fraudsters.
+Fraud detection is the most common typoe anomaly detection technique used by businesses. This approach focuses on finding **outliers** in the data that appear to have unusual patterns.  This serves as a first indication of the presence of a fraudulent activity. Such approaches are frequently applied by large social networks like Facebook, and by banks and credit card companies for finding possible hackers/fraudsters.
 
-### Which option should be taken? - Recommender Systems
+### 4. Which option should be taken? - Recommender Systems
 
-Recommender systems are among the most popular applications of data science today. They are used to predict user preferences towards a product/service. Almost every major tech company (Amazon, Netflix, Google, Facebook) has applied them in some form or the other. You might have noticed phrases like "If you like this product, you may also like ...", "Users who bought this item, also bought ..." and "Based on your preferences, we recommend following products to you ...". You got it, these are all recommender systems in action. 
+Recommender systems are one of the most popular applications of data science today. They are used to predict user preferences towards a product/service. Almost every major tech company (Amazon, Netflix, Google, Facebook) has applied them in some form or the other. You might have noticed phrases like "If you like this product, you may also like ...", "Users who bought this item, also bought ..." and "Based on your preferences, we recommend following products to you ...". You got it, these are all recommender systems in action. 
 
 #### Example: Recommending products/services
 
@@ -62,4 +57,6 @@ According to a recent study by McKinsey, up to 75% of what consumers watch on Ne
 
 
 ### Summary
-This lesson provides an application oriented, non-technical introduction to some popular business use cases for data science applications and practices. The approaches highlighted above will be covered in detail as we progress through the course. 
+
+While you're going to learn to use a wide range of tools and techniques throughout this course, most of them will be used to predict a continuous value, to decide the most likely category for a value, to identify anomalies or to provide recommendations.
+
