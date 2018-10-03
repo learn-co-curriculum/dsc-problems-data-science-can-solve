@@ -48,7 +48,6 @@ Fraud detection is one of the most common types of anomaly detection technique u
 
 Recommender systems are one of the most popular applications of data science today. They are used to predict user preferences towards a product/service. Almost every major tech company (Amazon, Netflix, Google, Facebook) has applied them in some form or the other. You might have noticed phrases like "If you like this product, you may also like ...", "Users who bought this item, also bought ..." and "Based on your preferences, we recommend following products to you ...". You got it, these are all recommender systems in action. 
 
-#### Example: Recommending products/services
 Recommender systems can help a business retain customers by providing them with tailored suggestions specific to their needs. They can help increase sales and create brand loyalty through relevant personalization. When a customer feels as though they are understood by your brand, they are more likely to stay loyal and continue purchasing through your site.
 According to a recent study by McKinsey, up to 75% of what consumers watch on Netflix comes from the company’s recommender system. Retail giant Amazon credits recommender systems with 35% of their revenue. Best Buy decided to focus on their online sales, and in 2016’s second quarter they reported a 23.7% increase, thanks in part to their recommender system. 
 
