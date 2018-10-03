@@ -42,16 +42,13 @@ Anomaly detection is a data science technique used to find unusual patterns that
 
 ![](https://cdn-images-1.medium.com/max/1200/1*F_yiILIE954AZPgPADx76A.png)
 
-Fraud detection is the most common typoe anomaly detection technique used by businesses. This approach focuses on finding **outliers** in the data that appear to have unusual patterns.  This serves as a first indication of the presence of a fraudulent activity. Such approaches are frequently applied by large social networks like Facebook, and by banks and credit card companies for finding possible hackers/fraudsters.
+Fraud detection is one of the most common types of anomaly detection technique used by businesses. This approach focuses on finding **outliers** in the data that appear to have unusual patterns.  This serves as a first indication of the presence of a fraudulent activity. Such approaches are frequently applied by large social networks like Facebook, and by banks and credit card companies for finding possible hackers/fraudsters.
 
 ### 4. Which option should be taken? - Recommender Systems
 
 Recommender systems are one of the most popular applications of data science today. They are used to predict user preferences towards a product/service. Almost every major tech company (Amazon, Netflix, Google, Facebook) has applied them in some form or the other. You might have noticed phrases like "If you like this product, you may also like ...", "Users who bought this item, also bought ..." and "Based on your preferences, we recommend following products to you ...". You got it, these are all recommender systems in action. 
 
 #### Example: Recommending products/services
-
-![](http://blog.prediction.io/assets/images/Masters.png)
-
 Recommender systems can help a business retain customers by providing them with tailored suggestions specific to their needs. They can help increase sales and create brand loyalty through relevant personalization. When a customer feels as though they are understood by your brand, they are more likely to stay loyal and continue purchasing through your site.
 According to a recent study by McKinsey, up to 75% of what consumers watch on Netflix comes from the company’s recommender system. Retail giant Amazon credits recommender systems with 35% of their revenue. Best Buy decided to focus on their online sales, and in 2016’s second quarter they reported a 23.7% increase, thanks in part to their recommender system. 
 
