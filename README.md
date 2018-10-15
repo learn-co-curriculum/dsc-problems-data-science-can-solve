@@ -3,7 +3,7 @@
 
 ### Introduction 
 
-In this lesson we'll look at what data science is and the classes of problems that it can be used to solve. By the end of the lesson you should understand the kinds of things you'll be able to achieve as a professional data scientist.
+In this lesson we will look at what data science is and the classes of problems that it can be used to solve. By the end of the lesson you should understand the kinds of things you'll be able to achieve as a professional data scientist.
 
 ### Objectives:
 You will be able to:
