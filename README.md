@@ -1,5 +1,5 @@
 
-# What Problems Can Data Science Solve?
+# Problems Data Science Can Solve
 
 ### Introduction 
 
