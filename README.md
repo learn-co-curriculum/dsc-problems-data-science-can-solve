@@ -20,6 +20,7 @@ Regression analysis is used to predict a continuous value - such as the number o
 ### Example:  Sales or Market Forecasts
 
 ![](images/forecast.png)
+
 Regression is a handy technique to forecast sales, monitor marketing campaigns and create future plans etc. Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other variables are modified.
 
 
