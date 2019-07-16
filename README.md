@@ -19,7 +19,7 @@ Regression analysis is used to predict a continuous value - such as the number o
 
 ### Example:  Sales or Market Forecasts
 
-![](images/forecast.png)
+![](images/Image_185_forecast.png)
 
 Regression is a handy technique to forecast sales, monitor marketing campaigns and create future plans etc. Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other variables are modified.
 
@@ -41,7 +41,7 @@ Anomaly detection is a data science technique used to find unusual patterns that
 
 ### Example: Identifying Fraud
 
-![](images/fish_anomaly.png)
+![](images/Image_186_fishanomaly.png)
 
 Fraud detection is one of the most common types of anomaly detection technique used by businesses. This approach focuses on finding **outliers** in the data that appear to have unusual patterns.  This serves as a first indication of the presence of fraudulent activity. Such approaches are frequently applied by large social networks like Facebook, and by banks and credit card companies for finding possible hackers/fraudsters.
 
