@@ -8,7 +8,7 @@ In this lesson we will look at what data science is and the different kinds of p
 
 ## Objectives
 You will be able to:
-* Explain the different kinds of problems that data science can be used to solve
+- Explain the different kinds of problems that data science can be used to solve
 
 ## What Problems Can Data Science Solve?
 
