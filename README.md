@@ -8,7 +8,7 @@ In this lesson we will look at what data science is and the different kinds of p
 
 ## Objectives
 You will be able to:
-- Explain the different kinds of problems that data science can be used to solve
+* Understand the problems data science can solve
 
 ## What Problems Can Data Science Solve?
 
@@ -20,7 +20,7 @@ Regression analysis is used to predict a continuous value - such as the number o
 
 ### Example:  Sales or Market Forecasts
 
-![](images/Image_185_forecast.png)
+![](images/Image_185_forecast_corrected.png)
 
 Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other variables are modified.
 
