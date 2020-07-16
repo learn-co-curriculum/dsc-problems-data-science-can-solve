@@ -8,7 +8,7 @@ In this lesson we will look at what data science is and the different kinds of p
 
 ## Objectives
 You will be able to:
-* Describe the problems data science can solve
+- Describe the problems data science can solve
 
 ## What Problems Can Data Science Solve?
 
@@ -20,7 +20,7 @@ Regression analysis is used to predict a continuous value - such as the number o
 
 ### Example:  Sales or Market Forecasts
 
-![](images/Image_185_forecast_corrected.png)
+![img](images/Image_185_forecast_corrected.png)
 
 Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other variables are modified.
 
@@ -31,7 +31,7 @@ Classification is used to predict which category something will fall into. If yo
 
 ### Example: Credit Rating
 
-![](images/credit.jpg)
+![img](images/credit.jpg)
 
 
 Credit card companies receive hundreds of thousands of applications for new credit cards every week. These applications contain detailed information on social, economic, and personal attributes of applicants. Classification analysis can allow companies to categorize these applications based on the quality of their credit.
@@ -43,7 +43,7 @@ Anomaly detection is a common data science technique used to find unusual patter
 
 ### Example: Identifying Fraud
 
-![](images/Image_186_fishanomaly.png)
+![img](images/Image_186_fishanomaly.png)
 
 This approach focuses on finding **outliers** in the data that appear to have unusual patterns. This serves as a first indication of the presence of fraudulent activity. Such approaches are also frequently applied by large social networks like Facebook, Twitter, etc.
 
