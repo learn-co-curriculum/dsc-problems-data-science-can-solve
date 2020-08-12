@@ -21,7 +21,8 @@ Regression analysis is used to predict a continuous value - such as the number o
 
 ### Example:  Sales or Market Forecasts
 
-![img](images/Image_185_forecast_corrected.png)
+<img src="images/Image_185_forecast_corrected.png" width="650"/>
+
 
 Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other variables are modified.
 
@@ -32,7 +33,8 @@ Classification is used to predict which category something will fall into. If yo
 
 ### Example: Credit Rating
 
-![img](images/credit.jpg)
+<img src="images/credit.png" width="850"/>
+
 
 
 Credit card companies receive hundreds of thousands of applications for new credit cards every week. These applications contain detailed information on social, economic, and personal attributes of applicants. Classification analysis can allow companies to categorize these applications based on the quality of their credit.
