@@ -1,4 +1,3 @@
-
 # Problems Data Science Can Solve
 
 ## Introduction 
@@ -21,7 +20,7 @@ Regression analysis is used to predict a continuous value - such as the number o
 
 ### Example:  Sales or Market Forecasts
 
-<img src="images/Image_185_forecast_corrected.png" width="650"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/Image_185_forecast_corrected.png" width="650"/>
 
 
 Traditional trend analysis only looks at how one business entity changes with respect to another. Regression analyses can provide insight into how an outcome will change when several other variables are modified.
@@ -33,7 +32,7 @@ Classification is used to predict which category something will fall into. If yo
 
 ### Example: Credit Rating
 
-<img src="images/credit.png" width="850"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/credit.png" width="850"/>
 
 
 
@@ -46,7 +45,7 @@ Anomaly detection is a common data science technique used to find unusual patter
 
 ### Example: Identifying Fraud
 
-![img](images/Image_186_fishanomaly.png)
+![img](https://curriculum-content.s3.amazonaws.com/data-science/images/Image_186_fishanomaly.png)
 
 This approach focuses on finding **outliers** in the data that appear to have unusual patterns. This serves as a first indication of the presence of fraudulent activity. Such approaches are also frequently applied by large social networks like Facebook, Twitter, etc.
 
@@ -62,3 +61,8 @@ According to a recent study by McKinsey, up to 75% of what consumers watch on Ne
 
 While you're going to learn to use a wide range of tools and techniques throughout this course, most of them will be used to predict a continuous value, to decide the most likely category for a value, to identify anomalies or to provide recommendations.
 
+
+
+```python
+
+```
